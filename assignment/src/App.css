@@ -1,0 +1,62 @@
+#main{
+  width: 30%;
+  height: 25%;
+  background-color: aqua;
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-left: 35%;
+  margin-top: 3%;
+  
+}
+#heading{
+  text-align: center;
+}
+#searchadd{
+text-align: center;
+}
+#search{
+  margin-left: -10px;
+}
+#add{
+  margin-left: 5px;
+}
+#status{
+text-align: center;
+}
+#all{
+  margin-left: -10px;
+}
+#completed{
+  margin-left: 5px;
+}
+#list{
+  flex: 1;
+  overflow-y: scroll;
+  height: 500px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: aliceblue;
+  width: 95%;
+  margin-left: 2.5%;
+  border-radius: 5%;
+}
+#list-items{
+  margin-top: -5px;
+}
+#edit{
+  margin-left: 27%;
+  height: 30px;
+  margin-top: 15px;
+  cursor: pointer;
+  border: 0px;
+  background-color: aliceblue;
+}
+#delete{
+  height: 30px;
+  margin-top: 15px;
+  margin-left: 10px;
+  color: red;
+  cursor: pointer;
+  border: 0px;
+  background-color: aliceblue;
+}
